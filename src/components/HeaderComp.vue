@@ -152,7 +152,7 @@
     }
 
     .box1, .box2, .box3{
-        padding: 20px;
+        padding: 15px;
     }
 
     .box1{
