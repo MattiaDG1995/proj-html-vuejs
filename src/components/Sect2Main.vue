@@ -70,12 +70,13 @@
     .company{
         background-color: #111117;
         color: white;
+        width: 50%;
     }
 
     .boxcont{
-        width: 70%;
+        width: 65%;
         margin: 0 auto;
-        margin-top: 250px;
+        margin-top: 150px;
     }
 
     .box1, .box2, .box3{
@@ -116,6 +117,7 @@
         margin-bottom: 20px;
     }
     .contimg{
+        width: 50%;
         img{         
             width: 100%;
             display: block;
