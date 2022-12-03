@@ -135,7 +135,7 @@
             bottom: 10px;
             color: white;
             width: 70%;
-            right: 35px;
+            right: 55px;
            bottom: 20px;
         }
     }
