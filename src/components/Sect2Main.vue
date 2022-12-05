@@ -1,6 +1,7 @@
 <template>
     <div class="section">
         <div class="company">
+            <div class="green"></div>
             <div class="boxcont">
                 <div class="box1">
                     <h5>ABOUT THE NETWORK</h5>
@@ -71,6 +72,7 @@
         background-color: #111117;
         color: white;
         width: 50%;
+        position: relative;
     }
 
     .boxcont{
@@ -98,6 +100,16 @@
     .contperc{
         margin-top: 50px;
     }
+
+    .green{
+        background-color: #058283;
+        width: 8px;
+        height: 5px;
+        position: absolute;
+        top: 700px;
+        left: 167px;
+    }
+    
     .boxperc{
         display: flex;
         padding: 30px 0px;

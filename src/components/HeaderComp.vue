@@ -27,6 +27,7 @@
         </div>
 
         <div class="jumbo">
+            <div class="green"></div>
             <div class="boxJumbo">
                 <div class="logoNext">
                     <span class="nex">NEX</span>
@@ -101,7 +102,17 @@
     .jumbo{
         background-image: url('../assets/img/jumbo.jpg');
         width: 100%;
-        height: 800px;       
+        height: 800px;
+               
+    }
+
+    .green{
+        width: 227px;
+        height: 20px;
+        background-color: #058283;
+        position: absolute;
+        top: 275px;
+        left: 1287px;
     }
 
     .boxJumbo{
@@ -156,6 +167,7 @@
 
     .box1{
         font-size: 2.2rem;
+        position: relative;
     }
 
     .box3{
