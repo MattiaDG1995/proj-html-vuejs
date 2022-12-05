@@ -56,7 +56,7 @@
         <div class="sect2foot">
             <div class="cont2">
                 <div>
-                    <p>Enjoy the òow price. We are tracking any intention of piracy</p>
+                    <p>Enjoy the low price. We are tracking any intention of piracy</p>
                 </div>
 
                 <div>

@@ -110,6 +110,10 @@
         display: flex;
         justify-content: space-between;
 
+        span{
+            color: grey;
+        }
+
         button{
             background-color: #058283;
             padding: 10px 20px;

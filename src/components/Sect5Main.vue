@@ -100,6 +100,10 @@
 
     .box{
         margin-bottom: 20px;
+
+        p{
+            color: grey;
+        }
     }
 
     .input{
@@ -137,6 +141,10 @@
     .example{
        /*  width: 30%; */
        margin-left: 40px;
+
+       p{
+            color: grey;
+        }
     }
 
     .box2{
@@ -153,6 +161,7 @@
         span{
             margin-top: 10px;
         }
+
     }
 
     button{

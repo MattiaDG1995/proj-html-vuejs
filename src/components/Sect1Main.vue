@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="section">
         <div class="container">
         <div class="services">
             <h5>Our Businnes Areas</h5>
@@ -63,6 +63,10 @@
 </script>
 
 <style lang="scss" scoped>
+
+.section{
+    background: rgba(5, 130, 131, 0.1);
+}
     .container{
         width: 80%;
         margin: 0 auto;
@@ -115,6 +119,10 @@
 
     .box5, .box6, .box7{
         padding: 10px 0px;
+    }
+
+    .box7, .box2{
+        color: grey;
     }
 
     .transport{
