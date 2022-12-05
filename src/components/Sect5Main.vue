@@ -66,6 +66,10 @@
 </script>
 
 <style lang="scss" scoped>
+
+    section{
+        background: rgba(5, 130, 131, 0.1);
+    }
     .container{
         width: 80%;
         margin: 0 auto;

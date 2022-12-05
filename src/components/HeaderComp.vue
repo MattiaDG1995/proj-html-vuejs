@@ -101,8 +101,7 @@
     .jumbo{
         background-image: url('../assets/img/jumbo.jpg');
         width: 100%;
-        height: 800px;
-        opacity: 0.5;
+        height: 800px;       
     }
 
     .boxJumbo{
@@ -129,7 +128,7 @@
         color: white;
     }
     .nex{
-        background: rgba(5, 130, 131, 0.5);
+        background: rgba(5, 130, 131, 0.2);
         color: #058283;
         padding: 5px;
         padding-left: 20px;
